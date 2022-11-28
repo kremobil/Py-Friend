@@ -1,0 +1,43 @@
+[
+  {
+    "tag": "variables def",
+    "patterns": [
+      "Give me definition of all variables?",
+      "How variables looks like in pyton?",
+      "What is a Variable?",
+      "You know something about variables?",
+      "Var what that mean?"
+    ],
+    "responses": [
+      "Variable is a some kind of container for specific values. for example you have number 32 and you want to assign it to variable x then you type x = 32. Variable can have different types if you want to write a text you need to use a string eg. 'hello world' you can write it in single or double quotes. Another variable type is integer this is just natural number (eg. 3) if you want to crate floating pint number you must use a float (eg. 3.1415). We got boolean type as well and this is true or false value. we can define variable which contains more variables in itself there are three types of this variables: list it contains variables in specific index's (eg. [23, 321.4, true, 'im a index number 3']), sets it contains unsorted values so you can't aces specific value (eg. {32, 'hello there', false})and last type is dictionary in dict. you can define your own indexes like this eg. {'name': 'John', 'surname': 'Silver-hand'}. if you want know more about specific values you can just ask me about it :)."
+    ]
+  },
+  {
+    "tag": "boolean def",
+    "patterns": [
+      "What is a boolean variable type?",
+      "How can i use booleans?",
+      "What bool means?",
+      "What type of variable is true or false?",
+      "Tell me about booleans",
+      "Give me definition of boolean variable type"
+    ],
+    "response": [
+      "Boolean variable type is true or false value. We can use booleans for if statements this is few examples of booleans (a =< 21, not 32 > 10 // return false because we using not so we got opposite result, false, a % 2 = 0 // its will be true if a can be divided by 2)"
+    ]
+  },
+  {
+    "tag": "integer def",
+    "patterns": [
+      "What is a integer variable type?",
+      "How can i use integers?",
+      "What int means?",
+      "How i can define a number variable",
+      "Tell me about integers",
+      "Give me definition of integers variable type"
+    ],
+    "response": [
+      "Integer is a variable type which can contains natural number like 1, 5, 10 etc."
+    ]
+  }
+]
