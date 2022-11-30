@@ -37,7 +37,34 @@
       "Give me definition of integers variable type"
     ],
     "response": [
-      "Integer is a variable type which can contains natural number like 1, 5, 10 etc."
+      "Integer is a variable type which can contains natural number like 1, 5, 10 etc. you can do mathematical operations or use integers for conditional statements. for example: i = 10, i <= 23, 10 / 32"
+    ]
+  },
+  {
+    "tag": "float def",
+    "patterns": [
+      "What is a floating point number variable type?",
+      "How can i use float variable?",
+      "What float means?",
+      "How i can define a floating point number variable",
+      "Tell me about floats",
+      "Give me definition of float variable type"
+    ],
+    "response": [
+      "Integer is a variable type which can contains natural number like 1, 5, 10 etc. you can do mathematical operations or use integers for conditional statements. for example: i = 10, i <= 23, 10 / 32"
+    ]
+  },
+  {
+    "tag": "string def",
+    "patterns": [
+      "what type of variable is text",
+      "can you tell me about strings",
+      "what that mean: string?",
+      "how i can define a text variable",
+      "Give me a definition of string variable"
+    ],
+    "response": [
+      "string is a chain of characters so saying more simple we can say it is a text. we cam adding the strings but can divide it or"
     ]
   }
 ]
