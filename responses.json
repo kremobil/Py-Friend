@@ -64,7 +64,7 @@
       "Give me a definition of string variable"
     ],
     "response": [
-      "string is a chain of characters so saying more simple we can say it is a text. we cam adding the strings but can divide it or"
+      "string is a chain of characters so saying more simple we can say it is a text. you can use it to print some messages with strings. if you want combine it with other variables you can use formatted string for example: f'two plus two is {2 + 2}'"
     ]
   }
 ]
